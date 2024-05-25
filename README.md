@@ -1,5 +1,6 @@
 # streamlit-analytics-app-quickstart
 ## 代码样例
+ - streamlit-analytics是一个专门为Streamlit应用设计的库，可以跟踪和可视化用户交互。安装后，只需在应用代码中导入并使用streamlit_analytics，就可以开始跟踪页面访问量、小部件交互等.
 ```
 import streamlit as st
 import streamlit_analytics2 as streamlit_analytics
